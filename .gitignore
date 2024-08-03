@@ -1,4 +1,3 @@
-test.json
 # Python
 __pycache__/
 *.py[cod]
@@ -65,10 +64,6 @@ coverage.xml
 ehthumbs.db
 Thumbs.db
 
-# Project specific
-output.json
-classified_output.json
-*.csv
 
 # Anthropic API key file (if you're using one)
 anthropic_api_key.txt
